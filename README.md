@@ -82,13 +82,13 @@ as well as, many other web technologies such as HTML/CSS/Databases/-etc.
 - Oracle PL/SQL
 
 In particular, by simply using their web browser, alone...; with nothing else necessary to go and download...;   
-users can write code/run it/test it...; and, then, immediately, 'share' that code with others...  
+users can write code/run/test it...; and, then, immediately, 'share' that code with others...  
 so, that they, too, can go and run/re-write/test.
 
 To me, this is an **amazing** reflection on what is the current state of *web development* going on in the world. 
 
-I come from a time when if one wanted to use a programming language...; then, you had to...
-- go out and buy the book  
+I come from a time when if one wanted to use a particular programming language...; then, you had to...
+- go out and buy the book (otherwise, you would have the language...; but, absolutely no idea how  to use it...?!)   
 - go out and buy the programming language (to use on your computer at home)  
 ...however, now-a-days, most programming languages can be downloaded for FREE...;  
 and, there are loads of manuals/web sites/online groups...which teach you how to use it, also, for FREE.    
@@ -99,5 +99,6 @@ and, there are loads of manuals/web sites/online groups...which teach you how to
 
 OneCompiler  
 - https://www.onecompiler.com  
-
+- https://onecompiler.com/apis/embed-editor  
+- https://onecompiler.com/courses 
 
