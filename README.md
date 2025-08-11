@@ -87,6 +87,12 @@ so, that they, too, can go and run/re-write/test.
 
 To me, this is an **amazing** reflection on what is the current state of *web development* going on in the world. 
 
+I come from a time when if one wanted to use a programming language...; then, you had to...
+- go out and buy the book  
+- go out and buy the programming language (to use on your computer at home)  
+...however, now-a-days, most programming languages can be downloaded for FREE...;
+and, there are loads of manuals/web sites/online groups...which teach you how to use it, also, for FREE.    
+  
 -----
 
 ## Links
