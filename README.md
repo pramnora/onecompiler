@@ -8,7 +8,7 @@
 ## Introduction
 
 One compiler, is a site which offers its users *multiple* different **programming languages** to play with...;  
-as well as, many other web technologies such as HTML/CSS/Databases/-etc.
+as well as, many other web technologies such as: Web Languages/Databases/-etc.
 
 ### Programming languages:
 
